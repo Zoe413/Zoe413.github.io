@@ -1,0 +1,16 @@
+---
+title: "I have a website!"
+---
+
+My name is Zoe Robinson.
+
+<img src="websitephotos/Robinson_Zoe.jpg" style="width:50%">
+
+I enjoy growing fruit.
+
+<img src="websitephotos/silly photo_zrobinson.jpeg" style="width:50%">
+
+And teaching others about fruit!
+
+<img src="websitephotos/zrobinson.jpeg" style="width:50%">
+
